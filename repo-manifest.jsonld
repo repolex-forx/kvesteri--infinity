@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/kvesteri/infinity/commit/1be47baffce430fa0f393fbe0d0dd4788f10d820",
       "git:hexsha": "1be47baffce430fa0f393fbe0d0dd4788f10d820",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.5"
     },
     {
