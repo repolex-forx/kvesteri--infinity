@@ -1,0 +1,11 @@
+{
+  "org": "kvesteri",
+  "repo": "infinity",
+  "versions": [
+    {
+      "commit": "1be47baffce430fa0f393fbe0d0dd4788f10d820",
+      "tag": "1.5",
+      "parsed_at": "2026-10-19T12:24:09.571195+00:00"
+    }
+  ]
+}
